@@ -4,7 +4,7 @@ The source code can be found in the notebook: “Cars\_Detection.ipynb”
 
 The project was developed on Google Colab. 
 
-To ease the data preparation I’ve moved the “annotations\_sample.json” file out of the “car” folder
+To ease the data preparation I’ve moved the “annotations\_sample.json” file out of the “cars” folder
 
 The output with the car boxes in (Cx,Cy,W,H) format is in the file: “car\_bboxes\_RightFormat.csv”
 
